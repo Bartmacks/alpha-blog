@@ -21,4 +21,11 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+- Models and rails console
+- CRUD ops from rails console
+- Validations
+- Show articles feature
+- Articles index
+- Forms
+- Create action
+- Messaging
